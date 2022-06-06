@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TiloShop/static/css/main.d5e4f1fc.css",
+    "main.js": "/TiloShop/static/js/main.e6ad70c0.js",
+    "index.html": "/TiloShop/index.html",
+    "main.d5e4f1fc.css.map": "/TiloShop/static/css/main.d5e4f1fc.css.map",
+    "main.e6ad70c0.js.map": "/TiloShop/static/js/main.e6ad70c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e4f1fc.css",
+    "static/js/main.e6ad70c0.js"
+  ]
+}
